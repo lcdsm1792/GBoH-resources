@@ -176,7 +176,11 @@ p {
     width: 90%;
   }
 
-  .active .inactive {
+  .active {
+    font-size: 4rem;
+  }
+  
+  .inactive {
     font-size: 4rem;
   }
 
