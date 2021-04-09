@@ -152,7 +152,7 @@ p {
   margin-right: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 750px) {
   .magazine{
     flex-direction: column;
     width: 100%;
