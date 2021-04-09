@@ -167,13 +167,21 @@ p {
   .scenarios {
     width: 100%;
   }
-  
+
   h2 {
     width: 90%;
   }
-  
+
+  p {
+    width: 90%;
+  }
+
   .active .inactive {
     font-size: 4rem;
+  }
+
+  .covers {
+    width: 90%;
   }
 }
 
