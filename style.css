@@ -155,6 +155,7 @@ p {
 @media (max-width: 600px) {
   .magazine{
     flex-direction: column;
+    width: 100%;
   }
 
   .cover {
