@@ -178,10 +178,12 @@ p {
 
   .active {
     font-size: 4rem;
+    line-height: 2.5;
   }
   
   .inactive {
     font-size: 4rem;
+    line-height: 2.5;
   }
 
   .covers {
