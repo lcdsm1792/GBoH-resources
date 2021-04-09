@@ -156,6 +156,7 @@ p {
   .magazine{
     flex-direction: column;
     width: 100%;
+    border-style: none;
   }
 
   .cover {
@@ -166,6 +167,10 @@ p {
 
   .scenarios {
     width: 100%;
+  }
+  
+  h2 {
+    border-style: none;
   }
 }
 
