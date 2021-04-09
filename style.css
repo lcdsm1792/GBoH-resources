@@ -177,13 +177,13 @@ p {
   }
 
   .active {
-    font-size: 4rem;
-    line-height: 2.5;
+    font-size: 8rem;
+    line-height: 4.5;
   }
   
   .inactive {
-    font-size: 4rem;
-    line-height: 2.5;
+    font-size: 8rem;
+    line-height: 4.5;
   }
 
   .covers {
