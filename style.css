@@ -177,12 +177,12 @@ p {
   }
 
   .active {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 3;
   }
   
   .inactive {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 3;
   }
 
